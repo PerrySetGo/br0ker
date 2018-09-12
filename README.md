@@ -12,11 +12,13 @@ Br0ker is an open source project aimed at providing a set of resources for under
 At time of writing, this is just a simple website that serves as a proof of concept. Resources are collected and vetted by me, while Algolia provides the search mechanism.
 
 ### Future features
-More on this soon.
+* Object model needs location data
+* Object model could use additional links, for example, a non-profit might also have an awesome twitter feed that is actually its main clearinghouse of information and should not be ommitted
+
 
 ### Data Model
 
-The standard data model for an entry into the database looks like this and should be fairly self explanatory. As the project grows, there will be a more useful object hierarchy that more appropriately covers a variety of different resoures.
+The standard data model for an entry into the database looks like this and should be fairly self explanatory. As the project grows, there will be a more useful object hierarchy that more appropriately covers a variety of different resources.
 
 ```
 {

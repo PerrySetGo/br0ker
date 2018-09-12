@@ -1,0 +1,200 @@
+[
+  {
+  "resource_type": "Slack Channel",
+  "url": "http://www.pdxwit.org/slack-group/",
+  "organization": "PDXWIT: Portland Women and non-binary people in tech slack channel",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","hiring", "meetups", "workshop", "jobs"],
+  "note": "The slack channel is very busy and a great place to meet folks or look for opportunities in the Portland area"
+  },
+
+  {
+  "resource_type": "Slack Channel",
+  "url": "http://www.pdxwit.org/slack-group/",
+  "organization": "PDXWIT: Portland Women and non-binary people in tech slack channel",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","hiring", "meetups", "workshop", "jobs"],
+  "note": "PDXWIT: Portland Women and non-binary people in tech slack channel. PDXWIT also organizes events, workshops, etc. The slack channel is very busy and a great place to meet folks or look for opportunities in the Portland area"
+  },
+  {
+  "resource_type": "Non-Profit Organization",
+  "url": "https://chicktech.org/",
+  "organization": "ChickTech",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","youth", "workshops", "education","jobs"],
+  "note": "ChickTech is a national organization that provides STEM education for girls and women. The main website has a job board and links to various resources, as well as to the chapter websites in different cities"
+  },
+
+  {
+  "resource_type": "Non-Profit Organization",
+  "url": "https://outintech.com/",
+  "organization": "Out In Tech",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","LGBTQ+","youth", "workshops", "jobs"],
+  "note": "Out In Tech is a national organization that provides support and community for LGBTQ+ people nationwide. The main website has a job board and links to various resources, as well as to the chapter websites in different cities (see events page)"
+  },
+
+  {
+  "resource_type": "Conference Scholarship Grants",
+  "url": "https://www.projectalloy.org/",
+  "organization": "Project Alloy provides scholarship assistance to URMs in tech to attend conferences.",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","LGBTQ+","youth", "workshops", "jobs"],
+  "note": "Project Alloy provides scholarship assistance to URMs in tech to attend conferences. The main website has a job board and links to various resources, as well as to the chapter websites in different cities (see events page)"
+  },
+  {
+  "resource_type": "Non-Profit Organization",
+  "url": "http://www.blackgirlscode.com/",
+  "organization": "Black Girls Code.",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","African American","youth", "workshops", "education","jobs"],
+  "note": "Black Girls Code is a national organization by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology. The main website has a job board and links to various resources, as well as to the chapter websites in different cities (see events page)"
+  },
+  {
+  "resource_type": "For-Profit Tech Company",
+  "url": "https://buildyourfuture.withgoogle.com/",
+  "organization": "Google",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","education","engineering", "travel grants", "jobs"],
+  "note": "Google has a very robust program that provides scholarships, job training, travel grants for conferences, networking opportunities, educational opportunities and more"
+  },
+  {
+  "resource_type": "Podcast",
+  "url": "https://breakingintostartups.com",
+  "organization": "BreakingIntoStartups",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","startups","podcast", "code schools"],
+  "note": "Podcast that features people breaking into tech from non-traditional backgrounds. Also check their twitter acc"
+  },
+
+  {
+  "resource_type": "Venture Capital Funding",
+  "url": "https://backstagecapital.com/",
+  "organization": "Backstage Capital",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","startups","VC", "founder", "entrepreneur"],
+  "note": "Venture Capital funding for women, POC and LGBTQ+ founders"
+  },
+
+  {
+  "resource_type": "Entrepreneurism",
+  "url": "https://blackandbrownfounders.com/",
+  "organization": "Black & Brown Founders",
+  "date_added": "2018-09-11T13:54:15-07:00",
+  "tags": ["diversity","startups","VC", "founder", "entrepreneur"],
+  "note": "Support organization for founders from underrepresented backgrounds."
+  },
+  {
+    "resource_type": "Conference",
+    "url": "https://www.northstarphl.com/",
+    "organization": "Project Northstar",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity","conference","African American", "Latinx", "entrepreneur"],
+    "note": "Support organization for founders from underrepresented backgrounds."
+  },
+
+  {
+    "resource_type": "Conference",
+    "url": "https://2018.xoxofest.com/",
+    "organization": "XOXO",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity","conference","Art", "Comics", "Games"],
+    "note": "A tech & art focused festival with a strong commitment to diversity and inclusion and an active creative community"
+  },
+    {
+      "resource_type": "Educational Organization",
+      "url": "https://iurbanteen.org",
+      "organization": "iUrbanteen",
+      "date_added": "2018-09-11T13:54:15-07:00",
+      "tags": ["diversity","African American","youth", "workshops", "education","jobs"],
+      "note": "STEM arts education for underrepresented teens and young adults"
+    },
+    {
+    "resource_type": "Non-Profit Organization",
+    "url": "https://girlsinc.org/",
+    "organization": "Girls, Inc.",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity","African American","youth", "workshops", "education"],
+    "note": "Girls, Inc partners with schools and local organizations to create positive learning experiences and help girls overcome obstacles. They are not solely focused on tech, but related."
+    },
+    {
+    "resource_type": "For-Profit Organization",
+    "url": "https://www.coursereport.com/",
+    "organization": "Girls, Inc.",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity","code schools", "education", "community"],
+    "note": "Bootcamp comparison and ranking site with a lot of information about tech education, scholarships, advice for success."
+    },
+    {
+    "resource_type": "For-Profit Organization",
+    "url": "https://lesbianswhotech.org/",
+    "organization": "Lesbians Who Tech",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity","LGBTQ+", "conference", "community", "scholarships"],
+    "note": "International organization that puts together meetups, summits, and other programs including a coding scholarship."
+    },
+    {
+    "resource_type": "Resource List",
+    "url": "https://www.coursereport.com/blog/the-definitive-list-of-programming-bootcamp-scholarships",
+    "organization": "Course Report",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity", "resources", "code schools", "scholarships"],
+    "note": "A long list of potential opportunities to receive a scholarship for a code school - curated by Course Report"
+    },
+    {
+    "resource_type": "Resource List",
+    "url": "https://github.com/fvcproductions/diversify-me",
+    "organization": "n/a",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity", "resources", "code schools", "scholarships"],
+    "note": "A long list of tech conferences that provide travel grants and scholarships. This is an open source project anyone can contribute to."
+    },
+    {
+    "resource_type": "Networking",
+    "url": "https://www.conferencebuddy.io/",
+    "organization": "Conference Buddy",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity", "conferences", "networking", "social"],
+    "note": "Conference Buddy is an easy way to find linkeminded people to hang out with at conferences - making it easier for new folks and to meet people."
+    },
+    {
+    "resource_type": "Conference Scholarship Grants",
+    "url": "https://diversitytickets.org/",
+    "organization": "Diversity Tickets",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity", "conferences", "networking", "social", "scholarships"],
+    "note": "This website provides has an amazing list of free tickets for diverse attendees for tech conferences."
+    },
+    {
+    "resource_type": "Resource List",
+    "url": "https://github.com/RichardLitt/awesome-conferences",
+    "organization": "n/a",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity", "conferences", "scholarships"],
+    "note": "A list of awesome diverse, welcoming tech conferences."
+    },
+    {
+      "resource_type": "Conference",
+      "url": "http://codelandconf.com/",
+      "organization": "Codeland Conference",
+      "date_added": "2018-09-11T13:54:15-07:00",
+      "tags": ["diversity","conference","juniors"],
+      "note": "An amazinf conference for junior developers"
+    },
+    {
+    "resource_type": "For-Profit Tech Company",
+    "url": "https://careers.microsoft.com/us/en/usscholarshipprogram",
+    "organization": "Microsoft",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity","education","engineering", "travel grants", "jobs"],
+    "note": "Microsoft's scholarship program for students in STEM disciplines"
+    },
+    {
+    "resource_type": "Diversity Initiative",
+    "url": "https://techtownportland.com/pledge/",
+    "organization": "Techtown Portland",
+    "date_added": "2018-09-11T13:54:15-07:00",
+    "tags": ["diversity","jobs","starups"],
+    "note": "Techtown Portland is a citywide initiative to increase diversity in tech. A great project to learn about, especially as pledging companies are committed to diversity."
+    }
+  ]
