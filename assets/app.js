@@ -24,5 +24,17 @@ search.addWidget(
     }
   })
 );
+
+search.addWidget(
+  instantsearch.widgets.refinementList({
+    container: '#tags',
+    attributeName: 'tags',
+    operator: 'or',
+    limit: 100,
+    templates: {
+      header: 'tags'
+    }
+  })
+);
+
 search.start();
-console.log("here"); 
